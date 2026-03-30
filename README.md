@@ -1,6 +1,7 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm *Pedro Coronado*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I am 23 years old, I worked before in many jobs mostly in fast food, and i will graduate soon hopefully 
+
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -13,4 +14,4 @@ _Share some information about yourself, including your class, major, jobs, and e
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+_"May the force be with you!"_
